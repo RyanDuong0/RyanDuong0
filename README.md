@@ -8,7 +8,7 @@ I am a software developer based in the digital space, continuously learning and 
 
 ## Skills & Technologies
 
-react,js,html,css,git,github,mysql,java,linux,neovim,cs,py
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,git,github,mysql,java,linux,neovim,cs,py&perline=8)](https://skillicons.dev)
 
 ## Top Languages
 
