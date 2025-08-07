@@ -10,6 +10,10 @@ I am a software developer based in the digital space, continuously learning and 
 
 react,js,html,css,git,github,mysql,java,linux,neovim,cs,py
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDuong0)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Top Projects
 
 - [react-website](https://github.com/RyanDuong0/react-website): A React-based website project, ⭐️ 1 star, Language: JavaScript.
